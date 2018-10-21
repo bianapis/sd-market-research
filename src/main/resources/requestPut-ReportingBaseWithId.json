@@ -1,0 +1,9 @@
+{
+  "marketResearchReportRequestReference" : "MR123",
+  "employeeBusinessUnitReference" : "EBU234",
+  "marketResearchSourceReference" : "MRS09789",
+  "marketResearchReportVersionPeriod" : "v8.0.3",
+  "marketResearchReportRequest" : {},
+  "marketResearchReport" : {},
+  "marketResearchReportTypeReference" : "MRT2039"
+}
